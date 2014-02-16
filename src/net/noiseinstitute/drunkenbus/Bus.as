@@ -4,7 +4,7 @@ package net.noiseinstitute.drunkenbus {
 
     public class Bus extends Entity {
         [Embed(source="Bus.png")]
-        private static var IMAGE:Class;
+        private static const IMAGE:Class;
 
         public function Bus() {
             var image:Image = new Image(IMAGE);
