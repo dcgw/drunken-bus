@@ -1,4 +1,4 @@
-package net.noiseinstitute.game {
+package net.noiseinstitute.drunkenbus {
     import net.flashpunk.Engine;
     import net.flashpunk.FP;
 
