@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Ludum Dare Basecode" default="build">
+<project name="Drunken Bus" default="build">
   
   <property name="preloader.class" value="net.noiseinstitute.drunkenbus.Preloader"/>
   <property name="main.class" value="net.noiseinstitute.drunkenbus.Main"/>
